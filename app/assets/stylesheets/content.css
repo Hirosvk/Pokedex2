@@ -1,0 +1,14 @@
+.content {
+  display: flex;
+  flex-direction: row;
+}
+
+.content>.pokemon-index {
+  width: auto;
+}
+
+.content>.pokemon-details {
+  display: block;
+  position: relative;
+  width: 50%;
+}

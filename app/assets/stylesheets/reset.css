@@ -44,3 +44,8 @@ q:before, q:after {
 blockquote, q {
 	quotes: "" "";
 }
+
+a {
+	color: inherit;
+	text-decoration: inherit;
+}
